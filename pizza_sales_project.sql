@@ -133,7 +133,7 @@ FROM JoinedOrderView
 GROUP BY pizza_name
 ORDER BY total_sales DESC;
 
--- what is the sales for this year 2015?
+-- what is the total sales for this year 2015?
 -- result: about $ 801944.70
 SELECT EXTRACT(year FROM date) AS extracted_year, SUM(price) AS total_sales
 FROM JoinedOrderView
@@ -143,7 +143,7 @@ ORDER BY extracted_year;
 -- find monthly sales
 -- result: July is the peak which has the highest sales, but in general, it is not significantly affected by the seasonality.
 SELECT EXTRACT(month FROM date) AS extracted_month,
-		SUM(price)*100 AS total_sales
+		SUM(price) AS total_sales
 FROM JoinedOrderView
 GROUP BY extracted_month
 ORDER BY extracted_month;
