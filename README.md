@@ -2,7 +2,7 @@
 
 In this personal project, I conducted an analysis on a fictitious pizza place sales data using MySQL. The dataset contains a year's pizza sales (2015-01-01 to 2015-12-31) and consists of four (.csv) files.
 
-*Dataset Link: https://www.mavenanalytics.io/data-playground?search=pizza
+*Dataset Link: [Maven Analytics](https://www.mavenanalytics.io/data-playground?search=pizza)
 
 # Dataset Description:
 
