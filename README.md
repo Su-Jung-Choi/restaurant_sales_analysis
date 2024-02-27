@@ -10,7 +10,7 @@ In this personal project, I conducted an analysis on a fictitious pizza place sa
 
 
 
-The main objective of the analysis was to identify peak hours of the day, peak days of the week, and any seasonality (monthly trends) in sales. Additionally, I aimed to find the most-sold pizzas and least-sold pizzas. 
+**The main objective of the analysis was to identify peak hours of the day, peak days of the week, and any seasonality (monthly trends) in sales. Additionally, I aimed to find the most-sold pizzas and least-sold pizzas.**
 
 Below is a brief overview of the steps I took to conduct this analysis, along with some outputs.
 
@@ -23,7 +23,7 @@ Below is a brief overview of the steps I took to conduct this analysis, along wi
 ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/4f4032e5-cddf-4e53-9452-e306ae6326ab)
 
 ### 3. The busiest day of the week:
-   Used DATE_FORMAT to extract the abbreviated day of the week from the 'date' column, then counted the number of pizza orders. The following is the result of the query, revealing that Friday and Saturday were the peak days, while Sunday was the slowest day of the week:
+   Used `DATE_FORMAT` to extract the abbreviated day of the week from the 'date' column, then counted the number of pizza orders. The following is the result of the query, revealing that Friday and Saturday were the peak days, while Sunday was the slowest day of the week:
    
 ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/18996d03-0d2f-4e71-b98d-9cc182b103af)
 
