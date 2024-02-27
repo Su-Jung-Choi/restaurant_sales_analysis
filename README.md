@@ -1,10 +1,10 @@
-# A Pizza Restaurant Sales Data Analysis
+# 🍕 A Pizza Restaurant Sales Data Analysis
 
 In this personal project, I conducted an analysis on a fictitious pizza place sales data using MySQL. The dataset contains a year's pizza sales (2015-01-01 to 2015-12-31) and consists of four (.csv) files.
 
 🌼 Dataset Link: [Maven Analytics](https://www.mavenanalytics.io/data-playground?search=pizza)
 
-## Dataset Description:
+## 📚 Dataset Description:
 
 ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/f0b69bdc-5933-4751-8f74-f5ee1c47f467)
 
@@ -38,6 +38,6 @@ Below is a brief overview of the steps I took to conduct this analysis, along wi
 ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/fc39a254-6f2b-43ed-acdb-0eeec1282a60)
 
 > [!NOTE]
-> For detailed data exploration and results, refer to the "pizza_sales_project.sql" file. \
-> I also created a dashboard using Tableau, including the key findings from this data analysis. \
+> For detailed data exploration and results, refer to the **"pizza_sales_project.sql"** file. \
+> I also created a dashboard using **Tableau**, including the key findings from this data analysis. \
 > To view and interact with the Tableau dashboard, visit [here](https://public.tableau.com/app/profile/sujung.choi/viz/pizza_sales_17084867876930/Dashboard2)
