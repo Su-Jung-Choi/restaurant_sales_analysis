@@ -40,4 +40,4 @@ Below is a brief overview of the steps I took to conduct this analysis, along wi
 > [!NOTE]
 > For detailed data exploration and results, refer to the **"pizza_sales_project.sql"** file. \
 > I also created a dashboard using **Tableau**, including the key findings from this data analysis. \
-> To view and interact with the Tableau dashboard, visit [here]([https://public.tableau.com/app/profile/sujung.choi/viz/pizza_sales_17084867876930/Dashboard2](https://public.tableau.com/views/pizza_sales_17100051216020/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/pizza_sales_17100051216020/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+> To view and interact with the Tableau dashboard, visit [here](https://public.tableau.com/views/pizza_sales_17100051216020/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
