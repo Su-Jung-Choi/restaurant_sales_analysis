@@ -19,22 +19,33 @@ Below is a brief overview of the steps I took to conduct this analysis, along wi
 
 ### 2. Peak Hours of the Day:
    Extracted the hour from the 'time' column and counted pizza orders. The following is the result of the query, indicating that 12 - 1 p.m. is the peak hours for this pizza place:
+   
+   ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/01497648-c75d-4d04-94c0-a4004b706b0f)
+
 
 ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/4f4032e5-cddf-4e53-9452-e306ae6326ab)
 
 ### 3. The busiest day of the week:
    Used `DATE_FORMAT` to extract the abbreviated day of the week from the 'date' column, then counted the number of pizza orders. The following is the result of the query, revealing that Friday and Saturday were the peak days, while Sunday was the slowest day of the week:
+
+   ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/183c530f-1146-4cab-824a-9cbfe6c72867)
+
    
 ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/18996d03-0d2f-4e71-b98d-9cc182b103af)
 
 ### 4. Bestseller pizzas:
    Grouped pizzas by name, counted the number of pizzas sold for each type, ordered in descending order, and limited to the top 5. This process identified the top 5 popular pizzas out of 32 different types available. The following result shows the top five pizzas:
+
+   ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/e2c46567-17dc-4ea9-93cf-df206d534907)
+
    
 ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/229b9c9d-304a-4b50-9161-811e77a39ef0)
 
 ### 5. Total Sales for 2015:
    Extracted the year from the 'date' column, used SUM for price, and grouped by year. The following is the result:
-   
+
+   ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/79d81a17-5597-47bd-bdf4-2fe7e7f7e004)
+
 ![image](https://github.com/Su-Jung-Choi/restaurant_sales_analysis/assets/88897881/fc39a254-6f2b-43ed-acdb-0eeec1282a60)
 
 > [!NOTE]
